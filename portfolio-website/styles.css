@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f1f1f1;
+}
+
+header {
+  background: #4CAF50;
+  color: white;
+  padding: 40px;
+  text-align: center;
+}
+
+.about, .projects {
+  padding: 20px;
+}
+
+.project-card {
+  background: white;
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 0 6px rgba(0,0,0,0.1);
+}
+
+a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #4CAF50;
+  text-decoration: none;
+}
